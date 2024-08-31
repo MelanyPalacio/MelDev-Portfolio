@@ -37,7 +37,7 @@ const CoursesContainer = () => {
   return (
     <div className='courses'>
       <h1 className='courses__title'>Hobbies</h1>
-      <p className='courses__subtitle'>In this section, you will find algunas de mis pasiones that I have created to show you a little more about my day to day life.</p>
+      <p className='courses__subtitle'>In this section, you’ll discover some of my passions that I’ve shared to give you a look into my daily life.</p>
       <div className='courses__container'>
         {
           loading ? <Loading /> :
