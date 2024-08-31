@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+  max-width: 1024px;
+  padding: 32px 0;
+}
+
+.presentation__container {
+  max-width: 1024px;
+  width: 100% !important;
+  margin: 0;
+  position: relative;
+  aspect-ratio: 2.746;
+  padding: 75px 0px 0px 0px;
+}
+
+.presentation__blur {
+  position: absolute !important;
+  top: 0;
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: 2.746;
+}
+
+.presentation__lazy-load {
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}
+
+.non-visible {
+  opacity: 0;
+}
+
+.visible {
+  animation: visible 300ms forwards;
+}
+
+@keyframes visible {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.contact-me {
+  background-color: var(--blue);
+  color: var(--blue);
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  cursor: pointer;
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
+}
+
+@media (max-width: 780px) {
+  .navbar {
+    justify-content: center;
+    font-size: 14px;
+  }
+}

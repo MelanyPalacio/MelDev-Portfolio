@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "UX · Case Studies",
+    "topic_url": "/ux",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724879419/3_nmmnyc.png",
+    "alt_description": "UX · Case Studies",
+    "hash": "LFSPX}?a_24oxuWBWBt7~pIUD%?b"
+  },
+  {
+    "id": 2,
+    "title": "Guides · Tutorials",
+    "topic_url": "/blog",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724879234/hola_1_bcuztq.png",
+    "alt_description": "Blog · Tutorials",
+    "hash": "L7S$iitR?[tlyDkCr=aK.kenVZbI"
+  },
+  {
+    "id": 2,
+    "title": "Guides · Tutorials",
+    "topic_url": "/passions",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724902781/Presentacio%CC%81n_Personal_Colorida_Rosa_Pastel_xtnrh4.jpg",
+    "alt_description": "Blog · Tutorials",
+    "hash": "L7S$iitR?[tlyDkCr=aK.kenVZbI"
+  },
+  {
+    "id": 5,
+    "title": "About",
+    "topic_url": "/about",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724879418/2_cxzass.png",
+    "alt_description": "About",
+    "hash": "L3T9L$xv~m%M-=azWCoe~moeD,WC"
+  }
+]
