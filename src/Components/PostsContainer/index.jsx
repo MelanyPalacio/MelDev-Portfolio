@@ -37,7 +37,7 @@ const PostsContainer = () => {
   return (
     <div className='posts'>
       <h1 className='posts__title'>Blog · Tutorials</h1>
-      <p className='posts__subtitle'>In this section, you will find tutorials in Spanish that have served me and entertained me specifically for to practice HTML, CSS, and JavaScript. <br /> <br /> I have also written on <a href='https://medium.com/@melanypalacio.dev' target='_blank' className='posts__link'>Medium</a> on some topics that interest me, in case you want to take a look. </p>
+      <p className='posts__subtitle'>In this section, you will find tutorials in Spanish that have been both useful and entertaining for me, especially for practicing HTML, CSS, and JavaScript.</p>
       <div className='posts__container'>
         {
           loading ? <Loading /> :
