@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Trekking, adventure & travel.",
+    "title": "Trekking, adventure & travel Enthusiast",
     "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724898175/WhatsApp_Image_2024-08-28_at_21.21.50_wdicmj.jpg",
     "alt_description": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "Reading to rest better.",
+    "title": "Reading to Enhance Rest and Relaxation",
     "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897305/IMG_3902_bavxdk.jpg",
     "alt_description": "",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "I enjoy programming and learn a lot more.",
+    "title": "Passionate About Programming and Lifelong Learning",
     "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897895/IMG_3901_q7g7ks.jpg",
     "alt_description": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "title": "Exercising is one of my favorite things to do for my good habits.",
+    "title": "Workout: A Core Habit for a Healthy Lifestyle",
     "courses_url": "https://platzi.com/cursos/storybook/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897895/IMG_3909_u1mwvb.jpg",
     "alt_description": "",
