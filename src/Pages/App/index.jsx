@@ -15,9 +15,7 @@ import Projects from '../../Components/Projects'
 const AppRoutes = () => { 
   let routes = useRoutes([
     { path: '/', element: <Home /> },
-    { path: '/ux/case-study-trailers-movie-app', element: <CaseStudyTrailersMovieApp/> },
-    { path: '/ux/case-study-networking-app', element: <CaseStudyNetworkingApp/> },
-    { path: '/ux', element: <Projects/> },
+    { path: '/projects', element: <Projects/> },
     { path: '/Passions', element: <PassionsContainer/> },
     { path: '/blog', element: <PostsContainer/> },
     { path: '/about', element: <About /> },
