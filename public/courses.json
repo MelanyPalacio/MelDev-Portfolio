@@ -9,12 +9,19 @@
   {
     "id": 2,
     "title": "Reading to Enhance Rest and Relaxation",
-    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897305/IMG_3902_bavxdk.jpg",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1725254804/WhatsApp_Image_2024-09-02_at_00.26.20_laf5cw.jpg",
     "alt_description": "",
     "hash": "LIBzt@pfnerB4}RjMwoh-=xU%gNM"
   },
   {
     "id": 3,
+    "title": "lover of healthy recipes",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1725254728/WhatsApp_Image_2024-09-02_at_00.20.42_zmiqbw.jpg",
+    "alt_description": "",
+    "hash": "LEJ=~M|60{7VD4x[o|a1%gNZ%2v-"
+  },
+  {
+    "id": 4,
     "title": "Passionate About Programming and Lifelong Learning",
     "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897895/IMG_3901_q7g7ks.jpg",
@@ -22,9 +29,16 @@
     "hash": "LPDcwmr@NfOv5HR;Ris;_4bJs+ng"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Workout: A Core Habit for a Healthy Lifestyle",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897895/IMG_3909_u1mwvb.jpg",
+    "alt_description": "",
+    "hash": "LEJ=~M|60{7VD4x[o|a1%gNZ%2v-"
+  },
+  {
+    "id": 4,
+    "title": "Argentinian barbecue enthusiast",
+    "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1725254542/WhatsApp_Image_2024-09-02_at_00.20.43_ng7vcd.jpg",
     "alt_description": "",
     "hash": "LEJ=~M|60{7VD4x[o|a1%gNZ%2v-"
   }
