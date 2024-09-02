@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "UX · Case Studies",
-    "topic_url": "/ux",
+    "title": "My Projects",
+    "topic_url": "/quizzes",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724879419/3_nmmnyc.png",
-    "alt_description": "UX · Case Studies",
+    "alt_description": "My projects",
     "hash": "LFSPX}?a_24oxuWBWBt7~pIUD%?b"
   },
   {
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "title": "Guides · Tutorials",
+    "title": "Hobbies",
     "topic_url": "/passions",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1725075921/Presentacio%CC%81n_Personal_Colorida_Rosa_Pastel_oonfmn.png",
     "alt_description": "Blog · Tutorials",
@@ -25,7 +25,7 @@
   },
   {
     "id": 5,
-    "title": "About",
+    "title": "About me",
     "topic_url": "/about",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1725076200/hola_tzaouv.png",
     "alt_description": "About",

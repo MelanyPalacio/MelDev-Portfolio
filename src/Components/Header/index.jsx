@@ -24,7 +24,7 @@ const Header = () => {
           <NavLink to='/' className={({ isActive }) => isActive ? 'routing__label--active' : 'routing__label'}>
             Home
           </NavLink>
-          <NavLink to='/ux' className={({ isActive }) => isActive ? 'routing__label--active' : 'routing__label'}>
+          <NavLink to='/projects' className={({ isActive }) => isActive ? 'routing__label--active' : 'routing__label'}>
             Projects
           </NavLink>
           <NavLink to='/passions' className={({ isActive }) => isActive ? 'routing__label--active' : 'routing__label'}>

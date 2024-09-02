@@ -10,12 +10,14 @@ import Footer from '../../Components/Footer'
 import NotFound from '../../Components/NotFound'
 import PostsContainer from '../../Components/PostsContainer'
 import './index.css'
+import Projects from '../../Components/Projects'
 
 const AppRoutes = () => { 
   let routes = useRoutes([
     { path: '/', element: <Home /> },
     { path: '/ux/case-study-trailers-movie-app', element: <CaseStudyTrailersMovieApp/> },
     { path: '/ux/case-study-networking-app', element: <CaseStudyNetworkingApp/> },
+    { path: '/ux', element: <Projects/> },
     { path: '/Passions', element: <PassionsContainer/> },
     { path: '/blog', element: <PostsContainer/> },
     { path: '/about', element: <About /> },
