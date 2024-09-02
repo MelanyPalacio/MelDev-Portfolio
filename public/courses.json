@@ -2,7 +2,6 @@
   {
     "id": 1,
     "title": "Trekking, Adventure & Travel Enthusiast",
-    "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724898175/WhatsApp_Image_2024-08-28_at_21.21.50_wdicmj.jpg",
     "alt_description": "",
     "hash": "LJJ5sJayMzsphgspK0a{_Nf6O9j["
@@ -10,7 +9,6 @@
   {
     "id": 2,
     "title": "Reading to Enhance Rest and Relaxation",
-    "passions_url": "https://platzi.com/cursos/react-vite-tailwindcss/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897305/IMG_3902_bavxdk.jpg",
     "alt_description": "",
     "hash": "LIBzt@pfnerB4}RjMwoh-=xU%gNM"
@@ -26,7 +24,6 @@
   {
     "id": 4,
     "title": "Workout: A Core Habit for a Healthy Lifestyle",
-    "courses_url": "https://platzi.com/cursos/storybook/",
     "image_url": "https://res.cloudinary.com/dfixlpq6t/image/upload/v1724897895/IMG_3909_u1mwvb.jpg",
     "alt_description": "",
     "hash": "LEJ=~M|60{7VD4x[o|a1%gNZ%2v-"
