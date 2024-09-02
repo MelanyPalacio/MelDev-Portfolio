@@ -11,17 +11,6 @@
     "hash": "LbM@cRxHx]%N~qofM{Rj%NtRRPax"
   },
   {
-    "id": 17,
-    "title": "Crea la página web de tu Curriculum Vitae (CV) con Figma y CSS",
-    "description": "Diseño con Figma y maquetación con CSS de nuestra página web con portafolio",
-    "technologies": "Figma & CSS",
-    "date": "2022",
-    "post_url": "https://platzi.com/blog/figma-css/",
-    "image_url": "https://i.ibb.co/q00XJmV/website.gif",
-    "alt_description": "",
-    "hash": "LoHgW0j[.RWC%Mj[Rjjt?^j[MdWB"
-  },
-  {
     "id": 16,
     "title": "¡Dibujos 3D con CSS! Construye una casa al estilo Minecraft",
     "description": "Dibujo de una casa en 3D al estilo Minecraft con CSS usando la propiedad transform",
@@ -53,28 +42,6 @@
     "image_url": "https://i.ibb.co/Wzx7yzN/uGift.gif",
     "alt_description": "",
     "hash": "LqR.x^j[.mofayayofjt%#j[Mdf6"
-  },
-  {
-    "id": 11,
-    "title": "Crea el Menú de un Restaurante Coreano con CSS Subgrid",
-    "description": "Creación del menú de un restaurante coreano con CSS Subgrid",
-    "technologies": "CSS: CSS Subgrid",
-    "date": "2021",
-    "post_url": "https://platzi.com/blog/css-subgrid/",
-    "image_url": "https://i.ibb.co/jZ0GT5p/Screen-Shot-2021-09-06-at-11-33-10-AM.png",
-    "alt_description": "",
-    "hash": "L4S?DNxu{sxu?0j[X3ay{?j[oYay"
-  },
-  {
-    "id": 8,
-    "title": "Qué son las microinteracciones web: crea la animación de Like en Twitter",
-    "description": "Creación el Like de Twitter con HTML, CSS y JavaScript",
-    "technologies": "HTML, CSS & JavaScript",
-    "date": "2021",
-    "post_url": "https://platzi.com/blog/microinteracciones/",
-    "image_url": "https://i.ibb.co/SfLf6Mh/heart.gif",
-    "alt_description": "",
-    "hash": "L8Ss88t7~WxuxufQj[fQ~Woe0KR*"
   },
   {
     "id": 7,
