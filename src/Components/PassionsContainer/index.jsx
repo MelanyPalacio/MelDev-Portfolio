@@ -42,7 +42,7 @@ const CoursesContainer = () => {
         {
           loading ? <Loading /> :
           courses?.map((course, index) => (
-            <Link to={course.course_url} target="_blank" key={course.id} className='course__link'>
+            <div to={course.course_url} target="_blank" key={course.id} className='course__link'>
               <LazyLoadComponent>
                 <div className='course__container'>
                   <Blurhash
@@ -63,7 +63,7 @@ const CoursesContainer = () => {
                 <span>{course.title}</span>
                 <span>{course.platform}</span>
               </p>
-            </Link>
+            </div>
           ))
         }
       </div>
