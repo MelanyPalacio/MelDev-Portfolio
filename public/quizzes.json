@@ -4,22 +4,36 @@
       "id": 1,
       "technologies": "React . JavaScript",
       "title": "Moneda digital EPM",
-      "date": "Nov - Feb 30, 2023",
+      "date": "Nov - Feb, 2023",
       "quiz_url": "https://dev.puntosnova.com/"
     },
     {
       "id": 2,
       "technologies": "Next.JS . React . TypeScript",
       "title": "Software developer Avenfor",
-      "date": "Jan - Sept 1, 2024",
+      "date": "Jan - Sept, 2024",
       "quiz_url": "https://avenfor.com/es"
     },
     {
       "id": 3,
       "technologies": "Next.JS . React . TypeScript",
       "title": "Wavf Avenfor",
-      "date": "Jan - Sept 1, 2024",
+      "date": "Jan - Sept, 2024",
       "quiz_url": "https://app.dev.wavf.avenfor.com/login?callbackUrl=https%3A%2F%2Fapp.dev.wavf.avenfor.com%2Fdashboard%2FriskMatrix"
+    },
+    {
+      "id": 4,
+      "technologies": "Next.JS . React . TypeScript . Storybook",
+      "title": "Avenfor's custom library",
+      "date": "Jan - Sept, 2024",
+      "quiz_url": "https://storybook.avenfor.com/auth/login"
+    },
+    {
+      "id": 3,
+      "technologies": "JavaScript",
+      "title": "WebSite MectiCenter",
+      "date": "Jan - Jun, 2021",
+      "quiz_url": "https://www.mecticenter.com/"
     }
   ]
 }
