@@ -38,6 +38,8 @@ const Projects = () => {
     <div className='quizzes'>
       <h1 className='quizzes__title'>Projects</h1>
       <p className='quizzes__subtitle'>In this section, you'll find projects I've been a part of.</p>
+
+
       <div className='quizzes__container'>
         {
           loading ? <Loading /> :
@@ -53,8 +55,15 @@ const Projects = () => {
             </Link>
           ))
         }
+
       </div>
 
+      <div className="download__container">
+        <a href="/CvMelanyPalacioF_F.pdf" download className="download__button">
+          Download CV
+        </a>
+      </div>
+      
     </div>
   )
 }

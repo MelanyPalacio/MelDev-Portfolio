@@ -55,9 +55,12 @@
   font-size: 14px;
 }
 
-@media (max-width: 780px) {
+@media (max-width: 555px) {
   .navbar {
     justify-content: center;
     font-size: 14px;
+  }
+  .presentation__blur {
+    height: 80% !important; /* Reduce la altura */
   }
 }
