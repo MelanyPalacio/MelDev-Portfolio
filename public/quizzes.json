@@ -5,7 +5,7 @@
       "technologies": "React . JavaScript",
       "title": "Moneda digital EPM",
       "date": "Nov - Feb, 2023",
-      "quiz_url": "https://dev.puntosnova.com/"
+      "quiz_url": "https://www.epm.com.co/" 
     },
     {
        "id": 1,
@@ -26,7 +26,7 @@
       "technologies": "Next.JS . React . TypeScript",
       "title": "Wavf Avenfor",
       "date": "Jan - Sept, 2024",
-      "quiz_url": "https://app.dev.wavf.avenfor.com/login?callbackUrl=https%3A%2F%2Fapp.dev.wavf.avenfor.com%2Fdashboard%2FriskMatrix"
+      "quiz_url": "https://wavf.net/es"
     },
     {
       "id": 5,
