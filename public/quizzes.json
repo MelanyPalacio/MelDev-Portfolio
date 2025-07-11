@@ -30,6 +30,13 @@
     },
     {
       "id": 5,
+      "technologies": "Angular . Nest.js . TypeScript",
+      "title": "Manna Worldwide",
+      "date": "Since feb 2025",
+      "quiz_url": "https://mannaworldwide.com/"
+    },
+    {
+      "id": 6,
       "technologies": "JavaScript",
       "title": "WebSite MectiCenter",
       "date": "Jan - Jun, 2021",
