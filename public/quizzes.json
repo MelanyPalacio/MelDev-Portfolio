@@ -2,41 +2,55 @@
   "projects":[
     {
       "id": 1,
-      "technologies": "React . JavaScript",
-      "title": "Moneda digital EPM",
-      "date": "Nov - Feb, 2023",
-      "quiz_url": "https://www.epm.com.co/" 
-    },
-    {
-       "id": 1,
-      "technologies": "Next.JS . React . TypeScript",
-      "title": "Software developer Avenfor",
-      "date": "Jan - Sept, 2024",
-      "quiz_url": "https://avenfor.com/es"
-    },
-    {
-      "id": 3,
-      "technologies": "Next.JS . React . TypeScript . Storybook",
-      "title": "Avenfor's custom library",
-      "date": "Jan - Sept, 2024",
-      "quiz_url": "https://storybook.avenfor.com/auth/login"
-    },
-    {
-      "id": 4,
-      "technologies": "Next.JS . React . TypeScript",
-      "title": "Wavf Avenfor",
-      "date": "Jan - Sept, 2024",
-      "quiz_url": "https://wavf.net/es"
-    },
-    {
-      "id": 5,
       "technologies": "Angular . Nest.js . TypeScript",
       "title": "Manna Worldwide",
       "date": "Since feb 2025",
       "quiz_url": "https://mannaworldwide.com/"
     },
     {
+      "id": 2,
+      "technologies": "Angular . Nest.js . TypeScript",
+      "title": "Manna Worldwide system",
+      "date": "Since feb 2025",
+      "quiz_url": "https://mww-fdrs.firebaseapp.com"
+    },
+    {
+      "id": 3,
+      "technologies": "Angular . Nest.js . TypeScript",
+      "title": "Manna Ministry Partner system",
+      "date": "Since june 2026",
+      "quiz_url": "https://mww-ministry-partner-reporting.web.app/"
+    },
+    {
+      "id": 4,
+      "technologies": "React . JavaScript",
+      "title": "Moneda digital EPM",
+      "date": "Nov - Feb, 2023",
+      "quiz_url": "https://www.epm.com.co/" 
+    },
+    {
+       "id": 5,
+      "technologies": "Next.JS . React . TypeScript",
+      "title": "Software developer Avenfor",
+      "date": "Jan - Sept, 2024",
+      "quiz_url": "https://avenfor.com/es"
+    },
+    {
       "id": 6,
+      "technologies": "Next.JS . React . TypeScript . Storybook",
+      "title": "Avenfor's custom library",
+      "date": "Jan - Sept, 2024",
+      "quiz_url": "https://storybook.avenfor.com/auth/login"
+    },
+    {
+      "id": 7,
+      "technologies": "Next.JS . React . TypeScript",
+      "title": "Wavf Avenfor",
+      "date": "Jan - Sept, 2024",
+      "quiz_url": "https://wavf.net/es"
+    }, 
+    {
+      "id": 8,
       "technologies": "JavaScript",
       "title": "WebSite MectiCenter",
       "date": "Jan - Jun, 2021",
